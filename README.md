@@ -1,52 +1,101 @@
-
 # 👋 Hi, I'm Amit Tanwar
 
-💻 **Software Development | Full-Stack Web Applications | IoT | Signal Processing**
+💻 **Software Development | Full-Stack Web Applications | AI/ML | Embedded Systems | Automotive Technology**
 
-I enjoy building applications, working with different technologies, and figuring out how to make systems work better. My projects span full-stack development, embedded systems, and communication-system simulations, combining practical implementation with my ECE background.
+I'm interested in building applications and systems across software, AI, embedded electronics, and communication engineering. My projects include full-stack web development, IoT-based monitoring, neural-network-based channel estimation, and MATLAB simulations for integrated sensing and communication.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-</p>
+### 💻 Software & Web Development
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge" alt="ESP8266"/>
-  <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge" alt="Blynk"/>
+### 🗄️ Databases, APIs & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="OpenAPI and Swagger"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth 2.0"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 💻 Areas of Development
+### 🐍 Python, AI & Machine Learning
 
-- **Frontend:** React, JavaScript, responsive web interfaces
-- **Backend:** Node.js, Express, REST APIs, JWT authentication
-- **Database:** MongoDB, Mongoose
-- **Testing:** Frontend testing, backend utility tests, debugging
-- **Embedded & IoT:** ESP8266, sensor integration, relay control, Blynk
-- **Simulation & Computing:** MATLAB, Python, neural-network-based channel estimation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Generative_AI_%26_LLMs-412991?style=for-the-badge" alt="Generative AI and LLMs"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+</p>
+
+### 🔌 Electronics, Embedded Systems & IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge" alt="ESP8266"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge" alt="STM32"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge" alt="Blynk"/>
+  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-607D8B?style=for-the-badge" alt="UART, SPI and I2C"/>
+</p>
+
+### 🚗 Automotive Technology
+
+<p>
+  <img src="https://img.shields.io/badge/CAN%20%2F%20CAN_FD-00599C?style=for-the-badge" alt="CAN and CAN FD"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-FF6D00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+</p>
+
+---
+
+## 💻 Areas of Development
+
+- **Frontend:** React, JavaScript, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI, REST APIs, authentication
+- **Databases & DevOps:** MongoDB, PostgreSQL, SQL, Docker, GitHub Actions
+- **AI & Machine Learning:** Python, scikit-learn, PyTorch, TensorFlow/Keras, LLMs, LangChain, LangGraph, RAG
+- **Embedded & IoT:** Arduino, ESP8266, ESP32, STM32, Raspberry Pi, sensors and microcontroller interfaces
+- **Automotive:** CAN/CAN FD, MATLAB/Simulink
+- **Simulation & Signal Processing:** MATLAB, NumPy, SciPy, neural-network-based channel estimation
 
 ---
 
 ## 🔥 Current Focus
 
-- 🌐 Building and improving full-stack web applications
-- 🔐 Working with authentication, role-based access, APIs, and database operations
+- 🌐 Building and improving full-stack applications and backend APIs
+- 🤖 Exploring AI/ML workflows and LLM-based applications
 - 🧪 Writing tests and improving code reliability
-- 🔌 Developing IoT projects using microcontrollers and sensors
-- 📊 Exploring machine learning and simulation techniques for communication systems
+- 🔌 Developing embedded and IoT projects
+- 🚗 Expanding technical knowledge in automotive electronics and in-vehicle communication
+- 📡 Working with communication-system modelling and signal-processing simulations
 
 ---
 
@@ -59,9 +108,9 @@ A full-stack web application for creating, managing, and taking online quizzes a
 - 🔐 JWT authentication and role-based access control
 - 📝 Quiz management, exam scheduling, and participant management
 - 📊 Automatic scoring, attempt history, and leaderboards
-- 🧪 Frontend and backend testing
+- 🧪 Frontend and backend tests
 
-**Tech:** React, Node.js, Express, MongoDB, JWT
+**Tech:** React, Node.js, Express, MongoDB, JWT, Swagger
 
 ### 🔌 [Street Light Fault Detection and Monitoring System](https://github.com/amittanwar5911/Street-Light-Fault-Detection-and-Monitoring-System)
 
@@ -72,16 +121,7 @@ An IoT-based project for automated street-light control and remote monitoring.
 - 📱 Remote monitoring and mode selection through Blynk
 - ⚙️ ESP8266, sensors, and relay-based control
 
-**Tech:** ESP8266, IoT, LDR, IR Sensor, Blynk
-
----
-
-## ⚙️ Tools & Workflow
-
-- **Version Control:** Git and GitHub
-- **Development:** VS Code, MATLAB
-- **Web Technologies:** React, Node.js, Express, MongoDB
-- **Testing & Maintenance:** Automated tests, debugging, documentation, incremental improvements
+**Tech:** Arduino, ESP8266, IoT, LDR, IR Sensor, Blynk
 
 ---
 
@@ -98,7 +138,7 @@ A MATLAB simulation of an Affine Frequency Division Multiplexing (AFDM) waveform
 - Pilot-aided channel estimation and equalization
 - Range-Doppler processing and target detection
 
-**Areas:** AFDM, ISAC, MATLAB, signal processing, radar sensing
+**Areas:** AFDM, ISAC, MATLAB/Simulink, signal processing, radar sensing
 
 ### 🧠 [Neural Network-Based Channel Estimation for DCO-OFDM](https://github.com/amittanwar5911/Neural-Network-based-channel-estimation-for-DCO-OFDM)
 
@@ -113,11 +153,13 @@ A neural-network-based approach to channel estimation for DC-biased optical OFDM
 
 ### 📚 Core Technical Interests
 
-- Wireless Communication Systems
-- Digital Signal Processing
-- OFDM and AFDM
-- Channel Estimation
+- Digital Signal Processing (DSP)
+- Digital Communication Systems
+- OFDM, DCO-OFDM and AFDM
+- Channel Estimation and Equalization
 - Integrated Sensing and Communication (ISAC)
+- Radar Signal Processing and Range-Doppler Analysis
+- Wireless Channel Modelling and Doppler Effects
 - Visible Light Communication (VLC)
 - Embedded Systems and IoT
 
@@ -129,7 +171,7 @@ A neural-network-based approach to channel estimation for DC-biased optical OFDM
 
 🛠️ I prefer learning by building projects, testing ideas, and improving what I've already developed.
 
-🎯 Currently focused on strengthening my software development skills while continuing to explore communication systems and embedded technology.
+🎯 Interested in software development, AI, embedded electronics, automotive technology, and wireless communication systems.
 
 ---
 
@@ -137,4 +179,4 @@ A neural-network-based approach to channel estimation for DC-biased optical OFDM
 
 🔗 **GitHub:** [@amittanwar5911](https://github.com/amittanwar5911)
 
-⭐ *Building, learning, debugging, and improving one project at a time.*
+⭐ *Building, debugging, and improving one project at a time.*
